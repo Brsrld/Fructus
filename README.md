@@ -1,3 +1,3 @@
 # Fructus
 
-Understand and do more practice for project.
+Understand and doing more practice for project.
